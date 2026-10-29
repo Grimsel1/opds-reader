@@ -2,7 +2,7 @@
 
 # OPDS Reader
 
-[Русский](README.md) · [Download](https://github.com/Grimsel1/opds-reader/releases/latest) · [Privacy Policy](https://grimsel1.github.io/opds-reader-privacy/privacy-en.html)
+[Русский](README.md) · [Download](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.41-en) · [Privacy Policy](https://grimsel1.github.io/opds-reader-privacy/privacy-en.html)
 
 An Android reader with a personal library, adjustable page layout and text-to-speech. Open your local files, connect your own OPDS catalogs and follow new releases from favorite authors and series.
 
@@ -89,11 +89,14 @@ DRM-protected books are not supported. Individual features depend on the documen
 
 ## Screenshots
 
-See the [Russian overview](README.md#скриншоты) for screenshots.
+<p><a href="en-01-library.png"><img src="en-01-library.png" width="240" alt="Library"></a> <a href="en-02-reading.png"><img src="en-02-reading.png" width="240" alt="Reading"></a></p>
+<p><a href="en-03-pdf-ocr.png"><img src="en-03-pdf-ocr.png" width="240" alt="PDF and OCR"></a> <a href="en-04-parallel-reading.png"><img src="en-04-parallel-reading.png" width="240" alt="Parallel reading"></a></p>
+<p><a href="en-05-neural-voice.png"><img src="en-05-neural-voice.png" width="240" alt="Neural speech"></a> <a href="en-06-global-search.png"><img src="en-06-global-search.png" width="240" alt="Unified search"></a></p>
+<p><a href="en-07-knowledge.png"><img src="en-07-knowledge.png" width="240" alt="Quotes and notes"></a> <a href="en-08-read-along.png"><img src="en-08-read-along.png" width="240" alt="Read along"></a></p>
 
 ## Install
 
-Open the [latest release](https://github.com/Grimsel1/opds-reader/releases/latest), download **OPDS-Reader-0.5.41.apk**, open the file and follow the Android prompts. `SHA256SUMS.txt` is provided beside the APK for download integrity checks.
+Open the [latest release](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.41-en), download **OPDS-Reader-0.5.41.apk**, open the file and follow the Android prompts. `SHA256SUMS.txt` is provided beside the APK for download integrity checks.
 
 ## Feedback and terms
 

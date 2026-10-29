@@ -2,7 +2,7 @@
 
 # OPDS Reader
 
-[English](README.en.md) · [Скачать приложение](https://github.com/Grimsel1/opds-reader/releases/latest) · [Политика конфиденциальности](https://grimsel1.github.io/opds-reader-privacy/privacy-ru.html)
+[English](README.en.md) · [Скачать приложение](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.41) · [Политика конфиденциальности](https://grimsel1.github.io/opds-reader-privacy/privacy-ru.html)
 
 Читалка для Android с собственной библиотекой, гибким оформлением страницы и озвучиванием книг. Открывайте файлы с устройства, подключайте свои OPDS-каталоги и следите за продолжениями любимых серий.
 
@@ -89,12 +89,14 @@ DRM-защищённые книги не поддерживаются. Дост�
 
 ## Скриншоты
 
-<p><a href="library.png"><img src="library.png" width="240" alt="Библиотека"></a> <a href="reading.png"><img src="reading.png" width="240" alt="Чтение"></a></p>
-<p><a href="pdf.png"><img src="pdf.png" width="240" alt="PDF и распознавание текста"></a> <a href="voice.png"><img src="voice.png" width="240" alt="Чтение вслух"></a></p>
+<p><a href="ru-01-library.png"><img src="ru-01-library.png" width="240" alt="Библиотека"></a> <a href="ru-02-reading.png"><img src="ru-02-reading.png" width="240" alt="Чтение"></a></p>
+<p><a href="ru-03-pdf-ocr.png"><img src="ru-03-pdf-ocr.png" width="240" alt="PDF и OCR"></a> <a href="ru-04-parallel-reading.png"><img src="ru-04-parallel-reading.png" width="240" alt="Параллельное чтение"></a></p>
+<p><a href="ru-05-neural-voice.png"><img src="ru-05-neural-voice.png" width="240" alt="Нейроозвучка"></a> <a href="ru-06-global-search.png"><img src="ru-06-global-search.png" width="240" alt="Единый поиск"></a></p>
+<p><a href="ru-07-knowledge.png"><img src="ru-07-knowledge.png" width="240" alt="Цитаты и заметки"></a> <a href="ru-08-read-along.png"><img src="ru-08-read-along.png" width="240" alt="Чтение с аудиокнигой"></a></p>
 
 ## Установка
 
-1. Откройте [последний выпуск](https://github.com/Grimsel1/opds-reader/releases/latest).
+1. Откройте [последний выпуск](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.41).
 2. Скачайте файл **OPDS-Reader-0.5.41.apk**.
 3. Откройте скачанный файл и следуйте подсказкам Android.
 
