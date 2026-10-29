@@ -2,7 +2,7 @@
 
 # OPDS Reader
 
-[Русский](README.md) · [Download](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.41-en) · [Privacy Policy](https://grimsel1.github.io/opds-reader-privacy/privacy-en.html)
+[Русский](README.md) · [Download](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.42-en) · [Privacy Policy](https://grimsel1.github.io/opds-reader-privacy/privacy-en.html)
 
 An Android reader with a personal library, adjustable page layout and text-to-speech. Open your local files, connect your own OPDS catalogs and follow new releases from favorite authors and series.
 
@@ -96,7 +96,7 @@ DRM-protected books are not supported. Individual features depend on the documen
 
 ## Install
 
-Open the [latest release](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.41-en), download **OPDS-Reader-0.5.41.apk**, open the file and follow the Android prompts. `SHA256SUMS.txt` is provided beside the APK for download integrity checks.
+Open the [latest release](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.42-en), download **OPDS-Reader-0.5.42.apk**, open the file and follow the Android prompts. `SHA256SUMS.txt` is provided beside the APK for download integrity checks.
 
 ## Feedback and terms
 
