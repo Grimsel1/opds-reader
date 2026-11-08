@@ -2,7 +2,7 @@
 
 # OPDS Reader
 
-[Русский](README.md) · [Download](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.42-en) · [Privacy Policy](https://grimsel1.github.io/opds-reader-privacy/privacy-en.html)
+[Русский](README.md) · [Download](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.45-en) · [Privacy Policy](https://grimsel1.github.io/opds-reader-privacy/privacy-en.html)
 
 An Android reader with a personal library, adjustable page layout and text-to-speech. Open your local files, connect your own OPDS catalogs and follow new releases from favorite authors and series.
 
@@ -68,7 +68,10 @@ An Android reader with a personal library, adjustable page layout and text-to-sp
 - Installed Android voices and local **Supertonic 3** and Russian **Silero** narration after a separate model download, with word-stress processing for Silero.
 - Speed, volume, a sleep timer, book queue, pronunciation rules, dialogue voices and audio-focus preferences.
 - Background playback, system media controls and synthesized speech export to WAV.
-- Pair **MP3/M4B** audiobooks with text using chapter time links and saved positions.
+- **MP3, M4B, M4A, AAC, OGG, Opus, FLAC and WAV** audiobooks in the library: file and folder import, ordered tracks, covers and a separate listening position.
+- Embedded M4B chapters, 0.5–3× speed, seeking, audio bookmarks, a sleep timer, skip silence and a speech equalizer.
+- **Audiobookshelf and HTTPS WebDAV**: streaming, offline downloads and Audiobookshelf progress sync.
+- Link audio to text manually or using SRT/VTT; optional transcription sends audio to your selected provider after separate consent.
 - Exact fragment highlighting for EPUBs with publisher-supplied **SMIL timing**. Open embedded EPUB audio and video separately.
 
 ### Backup and integrations
@@ -96,7 +99,7 @@ DRM-protected books are not supported. Individual features depend on the documen
 
 ## Install
 
-Open the [latest release](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.42-en), download **OPDS-Reader-0.5.42.apk**, open the file and follow the Android prompts. `SHA256SUMS.txt` is provided beside the APK for download integrity checks.
+Open the [latest release](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.45-en), download **OPDS-Reader-0.5.45.apk**, open the file and follow the Android prompts. `SHA256SUMS.txt` is provided beside the APK for download integrity checks.
 
 ## Feedback and terms
 
