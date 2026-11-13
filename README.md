@@ -2,7 +2,7 @@
 
 # OPDS Reader
 
-[English](README.en.md) · [Скачать приложение](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.45) · [Политика конфиденциальности](https://grimsel1.github.io/opds-reader-privacy/privacy-ru.html)
+[English](README.en.md) · [Скачать приложение](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.46) · [Политика конфиденциальности](https://grimsel1.github.io/opds-reader-privacy/privacy-ru.html)
 
 Читалка для Android с собственной библиотекой, гибким оформлением страницы и озвучиванием книг. Открывайте файлы с устройства, подключайте свои OPDS-каталоги и следите за продолжениями любимых серий.
 
@@ -99,8 +99,8 @@ DRM-защищённые книги не поддерживаются. Дост�
 
 ## Установка
 
-1. Откройте [последний выпуск](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.45).
-2. Скачайте файл **OPDS-Reader-0.5.45.apk**.
+1. Откройте [последний выпуск](https://github.com/Grimsel1/opds-reader/releases/tag/v0.5.46).
+2. Скачайте файл **OPDS-Reader-0.5.46.apk**.
 3. Откройте скачанный файл и следуйте подсказкам Android.
 
 Рядом с APK опубликован файл `SHA256SUMS.txt` для проверки целостности загрузки. В этом репозитории находятся установочные выпуски и материалы приложения.
